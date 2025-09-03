@@ -1,5 +1,5 @@
 export default function Shop() {
   return (
-   <div>Shop</div>
+   <div>Shop change</div>
   );
 }
