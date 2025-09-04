@@ -2,7 +2,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,       // Enable React Strict Mode
-  swcMinify: true,             // Enable fast SWC minification
+  swcMinify: false,             // Enable fast SWC minification
 
   // Generate a standalone build for Plesk Node.js
   output: 'standalone',
